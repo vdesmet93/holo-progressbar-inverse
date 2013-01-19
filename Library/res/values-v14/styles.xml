@@ -1,0 +1,9 @@
+<resources>
+    <style name="Widget.Holo.ProgressBar.Small.Inverse" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/progress_small_holo_inverse</item>
+    </style>
+
+     <style name="Widget.Holo.ProgressBar.Large.Inverse" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:indeterminateDrawable">@drawable/progress_large_holo_inverse</item>
+    </style>
+</resources>
