@@ -9,7 +9,7 @@ The library is compatible with API 7+ (although it should work on all Android ve
 Usage
 -----
 
-Using the inverse progressbar in your projects is simple. Just add the the Library project and use the style "Widget.Holo.ProgressBar.Large.Inverse" or "Widget.Holo.ProgressBar.Small.Inverse" as style for your progressbar. Feel free to copy the styles and images into your own project if that fits your needs.
+Using the inverse progressbar in your projects is simple. Just add the Library project and use the style "Widget.Holo.ProgressBar.Large.Inverse" or "Widget.Holo.ProgressBar.Small.Inverse" as style for your progressbar. Feel free to copy the styles and images into your own project if that fits your needs.
 
 Note that you shouldn't use @android:style/, but just @style, since the style is defined in the Library project. For example:
 	<ProgressBar 
